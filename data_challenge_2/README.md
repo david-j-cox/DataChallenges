@@ -1,10 +1,4 @@
 # Data Challenge 2 - Employee Retention
-## Please limit yourself to 4 hours time!
-### Place your submissions to the Submissions sub-folder with the naming convention: lname_fname_DC4.
-
-
-# Employee Retention
-
 ## Goal
 
 Employee turnover is a very costly problem for companies. The cost of replacing an employee if often larger than 100K USD, taking into account the time spent to interview and find a replacement, placement fees, sign-on bonuses and the loss of productivity for several months.
